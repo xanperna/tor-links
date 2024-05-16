@@ -35,7 +35,12 @@ xmatches (fixed games info) ->   http://ypjmfdifrhoxpoks5vaqeabvre2cndhlck2ou4du
 
 
 ....... communication .......
-chator (instant messaging) ->   http://chatorcvcl25nskltysozugy36pplnrwpbgwovh6mbwwzy2bzgq2hkyd.onion/
+	(email)
+onion mail ->   http://pflujznptk5lmuf6xwadfqy6nffykdvahfbljh7liljailjbxrgvhfid.onion/
+cock.li ->   http://rurcblzhmdk22kttfkel2zduhyu3r6to7knyc7wiorzrx5gw4c3lftad.onion/
+mail2tor ->   http://mail2torjgmxgexntbrmhvgluavhj7ouul5yar6ylbvjkxwqf6ixkwyd.onion/
+	(messaging)
+chator ->   http://chatorcvcl25nskltysozugy36pplnrwpbgwovh6mbwwzy2bzgq2hkyd.onion/
 
 
 ....... info .......
