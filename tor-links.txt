@@ -11,13 +11,31 @@ hidden answers ->   http://szwetpfwr3k34au2fwouqvuudg33fmigntzeq2gcx4t7247qlygqw
 anonblogs ->   http://rjw6uuakub5vog5n5m7qb6fs7en54aykclip4vwrh7q5ojaiy6ba7ayd.onion/
 
 ....... wikis/directories .......
+dark.fail ->   http://darkfailenbsdla5mal2mxn2uz66od5vtzd5qozslagrfzachha3f3id.onion/
+OnionLinks ->   http://s4k4ceiapwwgcm3mkb6e4diqecpo7kvdnfr5gg7sph7jjppqkvwwqtyd.onion/
 the hidden wiki (best) ->   http://6nhmgdpnyoljh5uzr5kwlatx2u3diou4ldeommfxjz3wkhalzgjqxzqd.onion/
+shadow wiki -> http://zsxjtsgzborzdllyp64c6pwnjz5eic76bsksbxzqefzogwcydnkjy3yd.onion/
 hidden wiki (1) ->   http://ppeabnochaat7lcskahepncxtmbxaw3qzda7oxu44pkn4jnozi2ywiyd.onion/
 hidden wiki ->   http://torwikijwqskahohtn35pyfde2uqmgrxgr2fru4mn4rer5muj445dxyd.onion/
 torhiddenlinks ->   http://deepwebyl3au3fnm4efynncy5fhiqknam3op6q3qgdwu3n5oavofifqd.onion/
 the deep dark net ->   http://torlisthsxo7h65pd2po7kevpzkk4wwf3czylz3izcmsx4jzwabbopyd.onion/
 hidden wiki fresh 2024 ->   http://3k2mfpeb6fr2rdznxzpxado3vtcot6rzi24tb5yti7ud3qjex36boqqd.onion/
 
+....... communication .......
+	(email)
+TorBox ->   http://torbox36ijlcevujx7mjb4oiusvwgvmue7jfn2cvutwa6kl6to3uyqad.onion/
+onion mail ->   http://pflujznptk5lmuf6xwadfqy6nffykdvahfbljh7liljailjbxrgvhfid.onion/
+cock.li ->   http://rurcblzhmdk22kttfkel2zduhyu3r6to7knyc7wiorzrx5gw4c3lftad.onion/
+mail2tor ->   http://mail2torjgmxgexntbrmhvgluavhj7ouul5yar6ylbvjkxwqf6ixkwyd.onion/
+	(messaging)
+chator ->   http://chatorcvcl25nskltysozugy36pplnrwpbgwovh6mbwwzy2bzgq2hkyd.onion/
+
+....... crypto .......
+darkmixer (bitcoin mixer) ->   http://y22arit74fqnnc2pbieq3wqqvkfub6gnlegx3cl6thclos4f7ya7rvad.onion/
+Mixabit (Bitcoin mixer) ->   http://hqfld5smkr4b4xrjcco7zotvoqhuuoehjdvoin755iytmpk4sm7cbwad.onion/
+EasyCoin (Wallet and Mixer) ->   http://mp3fpv6xbrwka4skqliiifoizghfbjy5uyu77wwnfruwub5s4hly2oid.onion/ 
+Onionwallet (wallet and mixer) ->   http://p2qzxkca42e3wccvqgby7jrcbzlf6g7pnkvybnau4szl5ykdydzmvbid.onion/
+VirginBitcoins (Buy freshly mined bitcoins) ->   http://ovai7wvp4yj6jl3wbzihypbq657vpape7lggrlah4pl34utwjrpetwid.onion/ 
 
 ....... marketplaces .......
 empire market ->   http://2a2a2abbjsjcjwfuozip6idfxsxyowoi3ajqyehqzfqyxezhacur7oyd.onion/
@@ -33,18 +51,19 @@ xhacker ->   http://z4odvem6bfypjqmwhsgtdaqtkkwgbxhe63dzq2lpnrmnmb6bgoafirad.oni
 dark web hackers ->   http://prjd5pmbug2cnfs67s3y65ods27vamswdaw2lnwf45ys3pjl55h2gwqd.onion/
 xmatches (fixed games info) ->   http://ypjmfdifrhoxpoks5vaqeabvre2cndhlck2ou4du32gpllqet2x6ikyd.onion/
 
-
-....... communication .......
-	(email)
-onion mail ->   http://pflujznptk5lmuf6xwadfqy6nffykdvahfbljh7liljailjbxrgvhfid.onion/
-cock.li ->   http://rurcblzhmdk22kttfkel2zduhyu3r6to7knyc7wiorzrx5gw4c3lftad.onion/
-mail2tor ->   http://mail2torjgmxgexntbrmhvgluavhj7ouul5yar6ylbvjkxwqf6ixkwyd.onion/
-	(messaging)
-chator ->   http://chatorcvcl25nskltysozugy36pplnrwpbgwovh6mbwwzy2bzgq2hkyd.onion/
-
-
 ....... info .......
+bible4u ->   https://bible4u2lvhacg4b3to2e2veqpwmrc2c3tjf2wuuqiz332vlwmr4xbad.onion/
+Tech Learning Collective ->   http://lpiyu33yusoalp5kh3f4hak2so2sjjvjw5ykyvu2dulzosgvuffq6sad.onion/
+Defcon ->   http://g7ejphhubv5idbbu3hb3wawrs5adw7tkx7yjabnf65xtzztgg4hcsqqd.onion/
+imperial library ->   http://kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion/
 
+....... tools .......
+TorPaste ->   http://torpastezr7464pevuvdjisbvaf4yqi4n7sgz7lkwgqwxznwy5duj4ad.onion/
+Keys.openpgp ->   http://zkaan2xfbuxia2wpf7ofnkbz6r5zdbbvxbunvp5g2iebopbfc4iqmbad.onion/
+OnionShare ->   http://lldan5gahapx5k7iafb3s4ikijc4ni7gx5iywdflkba5y2ezyg6sjgyd.onion/
+
+....... software .......
+Whonix (privacy OS) ->   http://www.dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/
 
 ....... misc .......
 finnegan’s cool/shit rating ->   http://coolshit7gs7pa6fpqhqdxn35fgetkqzb3bhsspixkm6lrazsjckezyd.onion/
