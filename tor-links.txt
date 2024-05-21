@@ -3,6 +3,8 @@ tor links
 ....... search engines .......
 haystack ->   http://haystak5njsmn2hqkewecpaxetahtwhsbsa64jom2k22z5afxhnpxfid.onion/
 torch ->   http://torchdeedp3i2jigzjdmfpn5ttjhthh5wbmda2rr3jvqjg5p77c54dqd.onion/
+ourrealm ->   http://orealmvxooetglfeguv2vp65a3rig2baq2ljc7jxxs4hsqsrcemkxcad.onion/
+tordex ->   tordexu73joywapk2txdr54jed4imqledpcvcuf75qsas2gwdgksvnyd.onion
 ahmia ->   http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion/
 
 ....... forums/message boards .......
@@ -12,6 +14,7 @@ anonblogs ->   http://rjw6uuakub5vog5n5m7qb6fs7en54aykclip4vwrh7q5ojaiy6ba7ayd.o
 
 ....... wikis/directories .......
 dark.fail ->   http://darkfailenbsdla5mal2mxn2uz66od5vtzd5qozslagrfzachha3f3id.onion/
+trust wiki ->   http://wiki6dtqpuvwtc5hopuj33eeavwa6sik7sy57cor35chkx5nrbmmolqd.onion/
 OnionLinks ->   http://s4k4ceiapwwgcm3mkb6e4diqecpo7kvdnfr5gg7sph7jjppqkvwwqtyd.onion/
 the hidden wiki (best) ->   http://6nhmgdpnyoljh5uzr5kwlatx2u3diou4ldeommfxjz3wkhalzgjqxzqd.onion/
 shadow wiki -> http://zsxjtsgzborzdllyp64c6pwnjz5eic76bsksbxzqefzogwcydnkjy3yd.onion/
