@@ -8,6 +8,7 @@ tordex ->   tordexu73joywapk2txdr54jed4imqledpcvcuf75qsas2gwdgksvnyd.onion
 ahmia ->   http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion/
 
 ....... forums/message boards .......
+dread ->   http://g66ol3eb5ujdckzqqfmjsbpdjufmjd5nsgdipvxmsh7rckzlhywlzlqd.onion/
 the tor forum ->   http://aqzdjsl26mcnh3sfxe2y2zav32pihynjt2fsmt5odi5e2siy6me4htid.onion/index.php
 hidden answers ->   http://szwetpfwr3k34au2fwouqvuudg33fmigntzeq2gcx4t7247qlygqwrqd.onion/
 anonblogs ->   http://rjw6uuakub5vog5n5m7qb6fs7en54aykclip4vwrh7q5ojaiy6ba7ayd.onion/
@@ -39,8 +40,11 @@ Mixabit (Bitcoin mixer) ->   http://hqfld5smkr4b4xrjcco7zotvoqhuuoehjdvoin755iyt
 EasyCoin (Wallet and Mixer) ->   http://mp3fpv6xbrwka4skqliiifoizghfbjy5uyu77wwnfruwub5s4hly2oid.onion/ 
 Onionwallet (wallet and mixer) ->   http://p2qzxkca42e3wccvqgby7jrcbzlf6g7pnkvybnau4szl5ykdydzmvbid.onion/
 VirginBitcoins (Buy freshly mined bitcoins) ->   http://ovai7wvp4yj6jl3wbzihypbq657vpape7lggrlah4pl34utwjrpetwid.onion/ 
+exchanger (crypto exchange) ->   http://exchanger.ysxqvwbcwrv3rijragerqereyvx5hgr4ph6ueqmymec4rjhi4umuakad.onion/?srcl=dread_banner
 
 ....... marketplaces .......
+abacus ->   https://abacuseeettcn3n2zxo7tqy5vsxhqpha2jtjqs7cgdjzl2jascr4liad.top/
+revolution ->   http://6revo66o74kl77wxyisswx7zyrnleaaylrgahlobbf2unipqczv773qd.onion/
 empire market ->   http://2a2a2abbjsjcjwfuozip6idfxsxyowoi3ajqyehqzfqyxezhacur7oyd.onion/
 deepmarket ->   http://deepmargataxl4wevpp4ev4dkuth2zdb2gp2pod7ynbwbbr5snsvlfad.onion/
 torbuy ->   http://torbuyxpe6auueywlctu4wz6ur3o5n2meybt6tyi4rmeudtjsysayqyd.onion/?utm_source=bestdeep
