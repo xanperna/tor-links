@@ -3,15 +3,19 @@ tor links
 ....... search engines .......
 haystack ->   http://haystak5njsmn2hqkewecpaxetahtwhsbsa64jom2k22z5afxhnpxfid.onion/
 torch ->   http://torchdeedp3i2jigzjdmfpn5ttjhthh5wbmda2rr3jvqjg5p77c54dqd.onion/
+dig ->   http://digdig2nugjpszzmqe5ep2bk7lqfpdlyrkojsx2j6kzalnrqtwedr3id.onion/
+shoot ->   http://shootnnngg4akh7fkjmx5b5omsppt2zaefohzwnwryhy2c6mm3kbx6qd.onion/
 ourrealm ->   http://orealmvxooetglfeguv2vp65a3rig2baq2ljc7jxxs4hsqsrcemkxcad.onion/
 tordex ->   tordexu73joywapk2txdr54jed4imqledpcvcuf75qsas2gwdgksvnyd.onion
 ahmia ->   http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion/
 
 ....... forums/message boards .......
 dread ->   http://g66ol3eb5ujdckzqqfmjsbpdjufmjd5nsgdipvxmsh7rckzlhywlzlqd.onion/
+pitch ->   http://pitchprash4aqilfr7sbmuwve3pnkpylqwxjbj2q5o4szcfeea6d27yd.onion/
 the tor forum ->   http://aqzdjsl26mcnh3sfxe2y2zav32pihynjt2fsmt5odi5e2siy6me4htid.onion/index.php
 hidden answers ->   http://szwetpfwr3k34au2fwouqvuudg33fmigntzeq2gcx4t7247qlygqwrqd.onion/
 anonblogs ->   http://rjw6uuakub5vog5n5m7qb6fs7en54aykclip4vwrh7q5ojaiy6ba7ayd.onion/
+8chan ->   http://alephchvkipd2houttjirmgivro5pxullvcgm4c47ptm7mhubbja6kad.onion/
 
 ....... wikis/directories .......
 dark.fail ->   http://darkfailenbsdla5mal2mxn2uz66od5vtzd5qozslagrfzachha3f3id.onion/
@@ -33,6 +37,7 @@ cock.li ->   http://rurcblzhmdk22kttfkel2zduhyu3r6to7knyc7wiorzrx5gw4c3lftad.oni
 mail2tor ->   http://mail2torjgmxgexntbrmhvgluavhj7ouul5yar6ylbvjkxwqf6ixkwyd.onion/
 	(messaging)
 chator ->   http://chatorcvcl25nskltysozugy36pplnrwpbgwovh6mbwwzy2bzgq2hkyd.onion/
+keybase ->   http://keybase5wmilwokqirssclfnsqrjdsi7jdir5wy7y7iu3tanwmtp6oid.onion/
 
 ....... crypto .......
 darkmixer (bitcoin mixer) ->   http://y22arit74fqnnc2pbieq3wqqvkfub6gnlegx3cl6thclos4f7ya7rvad.onion/
@@ -50,6 +55,7 @@ deepmarket ->   http://deepmargataxl4wevpp4ev4dkuth2zdb2gp2pod7ynbwbbr5snsvlfad.
 torbuy ->   http://torbuyxpe6auueywlctu4wz6ur3o5n2meybt6tyi4rmeudtjsysayqyd.onion/?utm_source=bestdeep
 
 ....... services .......
+archive.is ->   http://archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion/
 torshops (create an onion store) ->   http://uescqfrcztbhb6tmhdlbejrjfwgtpckcoiwmwq5bfq5hhkwfioan7qad.onion/
 hire a hitman ->  http://hundxpjpf754ly5lrm566ntjijdf35qshkw6sh3ybsunt75ukim2dgid.onion/
 rent a hacker ->   http://kq4okz5kf4xosbsnvdr45uukjhbm4oameb6k6agjjsydycvflcewl4qd.onion/
@@ -60,6 +66,7 @@ xmatches (fixed games info) ->   http://ypjmfdifrhoxpoks5vaqeabvre2cndhlck2ou4du
 
 ....... info .......
 bible4u ->   https://bible4u2lvhacg4b3to2e2veqpwmrc2c3tjf2wuuqiz332vlwmr4xbad.onion/
+psychonaut.wiki ->   http://vvedndyt433kopnhv6vejxnut54y5752vpxshjaqmj7ftwiu6quiv2ad.onion/wiki/Main_Page
 Tech Learning Collective ->   http://lpiyu33yusoalp5kh3f4hak2so2sjjvjw5ykyvu2dulzosgvuffq6sad.onion/
 Defcon ->   http://g7ejphhubv5idbbu3hb3wawrs5adw7tkx7yjabnf65xtzztgg4hcsqqd.onion/
 imperial library ->   http://kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion/
@@ -68,8 +75,10 @@ imperial library ->   http://kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f
 TorPaste ->   http://torpastezr7464pevuvdjisbvaf4yqi4n7sgz7lkwgqwxznwy5duj4ad.onion/
 Keys.openpgp ->   http://zkaan2xfbuxia2wpf7ofnkbz6r5zdbbvxbunvp5g2iebopbfc4iqmbad.onion/
 OnionShare ->   http://lldan5gahapx5k7iafb3s4ikijc4ni7gx5iywdflkba5y2ezyg6sjgyd.onion/
+simpletranslate ->   http://xxtbwyb5z5bdvy2f6l2yquu5qilgkjeewno4qfknvb3lkg3nmoklitid.onion/?engine=libre
 
 ....... software .......
+qubes OS ->   http://www.qubesosfasa4zl44o4tws22di6kepyzfeqv3tg4e3ztknltfxqrymdad.onion/
 Whonix (privacy OS) ->   http://www.dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/
 
 ....... misc .......
